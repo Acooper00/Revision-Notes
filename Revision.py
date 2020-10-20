@@ -277,7 +277,7 @@ class Subject():
 
         return
 
-os.chdir("./../../.REVISION_FILES/")# Changes to the correct directory
+os.chdir("./REVISION_FILES/")# Changes to the correct directory
 
 def TESTS():
     #-----------------------------------------------------#  TESTS AND FIXES  #------------------------------------------------------#
