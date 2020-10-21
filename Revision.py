@@ -2,9 +2,9 @@
 
 """ Files must be structured with sections starting with '~' and tabs denoting the sub-level of the section. Each new section (including the title) must be a tab more than the section it is contained in. The first section should be indented by one tab. """
 
-Subject_Files = {"English_Literature":"ENGLISH_LITERATURE.aa1","English_Language":"ENGLISH_LANGUAGE.aa1","Maths":"MATHS.aa1","Test":"TEST.aa1"}
+Subject_Files = {"English_Literature":"ENGLISH_LITERATURE.aa1","English_Language":"ENGLISH_LANGUAGE.aa1","Maths":"MATHS.aa1","Science_Biology":"SCIENCE_BIOLOGY.aa1","Science_Chemistry":"SCIENCE_CHEMISTRY.aa1","Science_Physics":"SCIENCE_PHYSICS.aa1","Test":"TEST.aa1"}
 
-names = {"english literature":"English_Literature","english language":"English_Language","maths":"Maths","test":"Test"}
+names = {"english literature":"English_Literature","english language":"English_Language","maths":"Maths","biology":"Science_Biology","chemistry":"Science_Chemistry","physics":"Science_Physics","test":"Test"}
 
 name = "Aaron"
 
