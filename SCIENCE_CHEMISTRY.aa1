@@ -1,0 +1,17 @@
+	~Physical
+		~Ionisation Energies
+		First Ionisation Energy: The energy required to form 1 mole of +1 ions from 1 mole of atoms in gaseous form
+		Each successive ionisation energy measures the energy required to remove only that electron, not all the electrons before it
+	~Organic
+		~Representing Organic Compounds
+		When describing organic compounds we have a number of different notations that can be used
+			~Empirical Formula
+			This gives the ratio of each type of atom in the molecule in its simplest form
+			The molecular formula will be a multiple of this
+			~Molecular formula
+			This gives the numbers of each type of atom in a compound but not its location
+			~Displayed formula
+			This shows the all atoms with lines showing the bonds
+			~Skeletal formula
+			This visual formula assumes that there is a carbon at the end of each bond unless shown otherwise and that any carbon not shown to have four bonds is bonded to the appropriate number of hydrogen atoms
+			This formula is quick to draw and conveys lots of information
